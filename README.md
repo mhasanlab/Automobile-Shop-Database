@@ -20,4 +20,24 @@ The content of this file divided into 9 sections
 * SECTION 02: INSERTING DATA INTO TABLE (Through Store Procedure)
 * SECTION 03: TEST (View, Trigger, Function, Transaction) 
 * SECTION 04: Query to retrieve data from database 
-** Find out the customer whos company name IS NULL
+***
+#Some Of The Queries:
+1. Find out the customer whos company name IS NULL.
+2. Use SPACE() Find Out The Customer (Full Name) As 'Name'and Their Mobile number Where CustomerType_ID = 1
+3. Find total number of employee who works in Operation Department
+4. Sort Employee Name ascending & descending order
+5. Sort Employee Name by an expression USE LEN()
+6. Sort by ordinal positions of columns
+7. select the OFFSET 10 ROWS
+8. select the OFFSET 0 ROWS 
+9. Find Out The customers from invoice table who have a Payment Due
+10. Write a Join Query To find out the employee Details who work in Marketing Department
+11. Write a query Using Like Operator
+12. Write a query Using NOT Like Operator
+13. Write a query Using GROUP BY clause and aggregate functions
+14. Write a query Using GROUP BY clause with the MIN and MAX functions 
+15. Write a query Using GROUP BY clause with the AVG() function
+16. Write Sub Queary to find out the customer whos Type_ID =2
+17. Write a query Using RollUp
+18. Write a query Using CUBE
+19. Write a CTE
