@@ -1,7 +1,8 @@
 # What is It?
 In this MS SQL Database project I am creating an Automobile Shop Management System database. On this Database project I have tried to apply all the functions of MS SQL. 
 
-# Data definition language (DDL) File
+# Content of Data definition language (DDL) File.
+
 The content of this file divided into 9 sections
 * SECTION 01: Created a Database Name [ASMSDB]
 * SECTION 02: Created Appropriate Tables For The Database
@@ -13,3 +14,10 @@ The content of this file divided into 9 sections
 * SECTION 08: CREATING TRIGGER (FOR TRIGGER, INSTEAD OF TRIGGER )
 * SECTION 09: CREATING TRANSACTION
 
+# Content of Data Manipulation Language (DML) File.
+
+* SECTION 01: INSERTING DATA INTO TABLE (Normal Insert Into)
+* SECTION 02: INSERTING DATA INTO TABLE (Through Store Procedure)
+* SECTION 03: TEST (View, Trigger, Function, Transaction) 
+* SECTION 04: Query to retrieve data from database 
+** Find out the customer whos company name IS NULL
