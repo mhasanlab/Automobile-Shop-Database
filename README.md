@@ -21,7 +21,7 @@ The content of this file divided into 9 sections
 * SECTION 03: TEST (View, Trigger, Function, Transaction) 
 * SECTION 04: Query to retrieve data from database 
 ***
-#Some Of The Queries:
+# Some Of The Queries:
 1. Find out the customer whos company name IS NULL.
 2. Use SPACE() Find Out The Customer (Full Name) As 'Name'and Their Mobile number Where CustomerType_ID = 1
 3. Find total number of employee who works in Operation Department
@@ -41,3 +41,5 @@ The content of this file divided into 9 sections
 17. Write a query Using RollUp
 18. Write a query Using CUBE
 19. Write a CTE
+
+Feel free to download this database project and modify or use it of your own way.
