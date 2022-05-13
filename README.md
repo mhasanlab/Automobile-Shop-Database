@@ -1,2 +1,2 @@
 # Automobile-Shop-Database
-In this small database project I try to create a automobile shop management system. This database is parfect for practice SQL queries. You are wellcome to download and improve this database project.
+In this MS SQL Database project I am creating an Automobile Shop Management System database. On this Database project I have tried to apply all the functions of MS SQL. 
